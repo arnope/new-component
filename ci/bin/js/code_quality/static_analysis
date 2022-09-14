@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -eux
+
+yarn eslint --max-warnings 0 src/
